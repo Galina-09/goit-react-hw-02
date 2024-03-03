@@ -1,0 +1,6 @@
+.listFeedback {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-weight: 700;
+}
