@@ -1,0 +1,46 @@
+.goodBtn {
+  background-color: rgb(202, 241, 202);
+}
+
+.goodBtn:hover,
+.goodBtn:focus {
+  background-color: rgb(152, 246, 152);
+}
+
+.neutralBtn {
+  background-color: rgb(209, 205, 209);
+}
+
+.neutralBtn:hover,
+.neutralBtn:focus {
+  background-color: rgb(138, 137, 138);
+}
+
+.badBtn {
+  background-color: rgb(236, 95, 95);
+}
+
+.badBtn:hover,
+.badBtn:focus {
+  background-color: rgb(226, 64, 64);
+}
+
+.resetBtn {
+  background-color: rgb(110, 185, 251);
+}
+
+.resetBtn:hover,
+.resetBtn:focus {
+  background-color: rgb(47, 147, 223);
+}
+
+.optionWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.valueBtnWrapper {
+  display: flex;
+  gap: 8px;
+}
